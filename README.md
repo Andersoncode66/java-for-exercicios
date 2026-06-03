@@ -19,7 +19,7 @@
 ## 📕Análise
 | Exercício | Tema  | Descrição |
 | :---------------- | :--------- | :--------- |
-| `11` | `Ler 10 números e descobrir o maior` | `Usando somente for.` |
+| `11` | `Ler 10 números e descobrir o menor` | `Usando somente for.` |
 | `12` | `Exibir a sequência de Fibonacci até o 10º termo` | `Usando somente for.` |
 | `13` | `Calcular o fatorial de um número` | `Exemplo: 5! = 120.` |
 | `14` | `Exibir os múltiplos de 3 entre 1 e 100` | `Usando somente for.` |
