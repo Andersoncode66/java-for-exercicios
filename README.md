@@ -1,4 +1,4 @@
-# java-for-exercicios
+# java-for-e
 
 # 💻Roteiro de Estudos
 ## 🖥️Básico
