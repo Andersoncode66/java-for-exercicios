@@ -1,6 +1,6 @@
 # java-for-e
 
-# 💻Roteiro de Estudos
+# 💻Roteiro de Estudoss
 ## 🖥️Básico
 | Exercício | Tema  | Descrição |
 | :---------------- | :--------- | :--------- |
